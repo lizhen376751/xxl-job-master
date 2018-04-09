@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 /**
  * Created by Administrator on 2018/4/9 0009.
  */
-@JobHander("lizhenDemo2Handler")
+@JobHander("myjobhandler")
 @Service
 public class Demo2Handler extends IJobHandler {
     @Override
